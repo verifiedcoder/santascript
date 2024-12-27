@@ -8,11 +8,13 @@ To say it has issues, is a minor understatement! Do the elves really know how it
 
 Regardless, here it is, open-sourced by the IT Department for Santa's Workshop at the North Pole.
 
-Confused? Scratchign your head? Tears forming? Never fear, the example .santa script will get you going. Maybe.
+Confused? Scratching your head? Tears forming? Never fear, `example.santa` will get you going. Maybe.
 
 # SANTA SCRIPT Specification
 
-This **SANTA SCRIPT Specification** reflects the latest version of the core files (`santa_lexer.py`, `santa_parser.py`, `santa_runtime.py`, and `santa.py`). 
+This **SANTA SCRIPT Specification** makes a valiant attempt to reflect the latest version of the core files (`santa_lexer.py`, `santa_parser.py`, `santa_runtime.py`, and `santa.py`). 
+
+Integration and extensions may be open-sourced at a later date. There are some highly specialized technical systems at the North Pole!
 
 ---
 
@@ -206,28 +208,28 @@ BRACKETS:        Balanced
 
 ### 2. Deployment Pipeline (Santa's Delivery System)
 ```text
-# Deployment features are not implemented.
+# Deployment features are not documented.
 ```
 
 ---
 
 ### 3. Cloud Integration (North Pole Cloud)
 ```text
-# Cloud integration features are not implemented.
+# Cloud integration features are not documented.
 ```
 
 ---
 
 ### 4. Migration Tools
 ```text
-# Migration tools are not implemented.
+# Migration tools are not documented.
 ```
 
 ---
 
 ### 5. Community Guidelines
 ```text
-# Contribution and issue reporting guidelines are not implemented.
+# Contribution and issue reporting guidelines are not documented.
 ```
 
 ---
@@ -236,36 +238,35 @@ BRACKETS:        Balanced
 
 ### 1. Advanced Language Features
 ```text
-# Magical decorators, metaprogramming, advanced types, and operator overloading
-# are not implemented.
+# Magical decorators, metaprogramming, advanced types, and operator overloading are not documented.
 ```
 
 ---
 
 ### 2. Performance Optimization Techniques
 ```text
-# Performance optimization features are not implemented.
+# Performance optimization features are not documented.
 ```
 
 ---
 
 ### 3. Integration Patterns
 ```text
-# Integration patterns are not implemented.
+# Integration patterns are not documented.
 ```
 
 ---
 
 ### 4. Advanced Debugging Strategies
 ```text
-# Debugging tools are not implemented.
+# Debugging tools are not documented.
 ```
 
 ---
 
 ### 5. Real-world Examples
 ```text
-# Real-world examples are not implemented.
+# Real-world examples are not documented.
 ```
 
 ---
@@ -274,35 +275,35 @@ BRACKETS:        Balanced
 
 ### 1. Advanced AI Integration
 ```text
-# AI integration features are not implemented.
+# AI integration features are not documented.
 ```
 
 ---
 
 ### 2. Machine Learning Features
 ```text
-# Machine learning features are not implemented.
+# Machine learning features are not documented.
 ```
 
 ---
 
 ### 3. IoT Workshop Integration
 ```text
-# IoT integration features are not implemented.
+# IoT integration features are not documented.
 ```
 
 ---
 
 ### 4. Blockchain Gift Tracking
 ```text
-# Blockchain integration features are not implemented.
+# Blockchain integration features are not documented.
 ```
 
 ---
 
 ### 5. AR/VR Development Tools
 ```text
-# AR/VR development tools are not implemented.
+# AR/VR development tools are not documented.
 ```
 
 ---
@@ -311,42 +312,42 @@ BRACKETS:        Balanced
 
 ### 1. Advanced Security Features
 ```text
-# Advanced security features are not implemented.
+# Advanced security features are not documented.
 ```
 
 ---
 
 ### 2. High-Performance Computing
 ```text
-# High-performance computing features are not implemented.
+# High-performance computing features are not documented.
 ```
 
 ---
 
 ### 3. Cross-Platform Development
 ```text
-# Cross-platform development features are not implemented.
+# Cross-platform development features are not documented.
 ```
 
 ---
 
 ### 4. Internationalization
 ```text
-# Internationalization features are not implemented.
+# Internationalization features are not documented.
 ```
 
 ---
 
 ### 5. Developer Experience Tools
 ```text
-# Developer experience tools are not implemented.
+# Developer experience tools are not documented.
 ```
 
 ---
 
 ### 6. Performance Monitoring
 ```text
-# Performance monitoring features are not implemented.
+# Performance monitoring features are not documented.
 ```
 
 ---
@@ -355,47 +356,49 @@ BRACKETS:        Balanced
 
 ### 1. Microservices Architecture
 ```text
-# Microservices architecture features are not implemented.
+# Microservices architecture features are not documented.
 ```
 
 ---
 
 ### 2. Cloud-Native Features
 ```text
-# Cloud-native features are not implemented.
+# Cloud-native features are not documented.
 ```
 
 ---
 
 ### 3. Event-Driven Systems
 ```text
-# Event-driven systems are not implemented.
+# Event-driven systems are not documented.
 ```
 
 ---
 
 ### 4. Disaster Recovery
 ```text
-# Disaster recovery features are not implemented.
+# Disaster recovery features are not documented.
 ```
 
 ---
 
 ### 5. Best Practices Guide
 ```text
-# Best practices guide is not implemented.
+# Best practices guide is not documented.
 ```
 
 ---
 
 ### 6. Enterprise Integration
 ```text
-# Enterprise integration features are not implemented.
+# Enterprise integration features are not documented.
 ```
 
 ---
 
-IT Department note: Please, please, do not take this too seriously. We're all far too busy getting everything ready for next year, so we can't accept issues, pull requests, etc. Maybe it's better that way...
+**IT Department**: Please, please, do not take this too seriously. We're all far too busy getting everything ready for next year, so we can't accept issues, pull requests, etc. Maybe it's better that way...
+
+## Running SANTA SCRIPT
 
 Start a virtual environment, maybe add any packages needed and HO! HO! HO!
 
